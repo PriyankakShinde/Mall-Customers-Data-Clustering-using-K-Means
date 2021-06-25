@@ -1,1 +1,1 @@
-# Mall-Customers-Data-Clustering-using-K-Means
+# Mall-Customers-Data-Clustering-using-KMeans
